@@ -1,4 +1,5 @@
 # Intelligent Bot: Development of a State-of-the-Art Question-Answering Model
+**(For Detailed Info about the process and analysis please refer to the Analysis Report Provided in the repo)**
 
 ## Introduction
 
@@ -128,5 +129,5 @@ The fine-tuning and inference processes for this project were performed using Ka
 **Fine Tuned Models Hugging Face Link**
 -[Flan T5](https://huggingface.co/Feluda/Flan-t5-FineTuned-Quora)
 -[Mistral 7B](https://huggingface.co/Feluda/mistral_fine_tune)
--[Llama3 8B](https://huggingface.co/Feluda/llama-3-8b-chat-Qs-Ans-Quora)
+-[Llama3 8B](https://huggingface.co/Feluda/llama-3-8b-chat-Qs-Ans-Quora) <br>
 Feel free to clone the repository and explore the code and documentation to understand the process and replicate the results. For any questions or suggestions, please open an issue or contact me directly.
